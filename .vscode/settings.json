@@ -1,4 +1,9 @@
 {
     "editor.fontSize": 20,
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.inlineSuggest.triggerCommandOnProviderChange": true,
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
+    "terminal.integrated.suggest.insertTrailingSpace": true
 }
